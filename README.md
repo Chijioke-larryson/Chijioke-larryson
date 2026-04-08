@@ -1,8 +1,8 @@
 # 🐐 Larryson Chijioke
 
-**`💻 Backend Developer| 📊 Aspiring Data Scientist | ⛓️ Blockchain Enthusiast `**
+**`💻 Backend Developer| ☁️ Cloud Engineer | ⛓️ Blockchain Enthusiast `**
 
-I’m passionate about designing efficient backend systems, analyzing data to extract insights, and exploring how blockchain can drive innovation in healthcare, finance, and beyond. I enjoy solving problems with clean, scalable code and I’m constantly learning new technologies to expand my toolkit.  
+I’m passionate about designing efficient backend systems, Implementing and maintaining cloud infrastructure to support application deployment and scalability, and exploring how blockchain can drive innovation in healthcare, finance, and beyond. I enjoy solving problems with clean, scalable code and I’m constantly learning new technologies to expand my toolkit.  
 
 ---
 
