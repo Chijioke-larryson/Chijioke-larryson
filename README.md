@@ -2,9 +2,21 @@
 
 **`💻 Backend Developer| ☁️ Cloud Engineer | ⛓️ Blockchain Enthusiast `**
 
+
+# Hi, I'm Larryson Chijioke 🚀
+
 I’m passionate about designing efficient backend systems, Implementing and maintaining cloud infrastructure to support application deployment and scalability, and exploring how blockchain can drive innovation in healthcare, finance, and beyond. I enjoy solving problems with clean, scalable code and I’m constantly learning new technologies to expand my toolkit.  
 
 ---
+
+### 🎓 Academic Research Focus
+* **MEXT Research Applicant (2027 Cycle)**
+* **Core Proposal:** Automated Infrastructure-as-Code (IaC) Degradation and Configuration Drift Verification.
+
+### 🛠️ Core Engineering Stack
+* **Languages:** Python, JavaScript/TypeScript, SQL
+* **DevOps Focus:** GitHub Actions, Containerization, Automation Scripts
+
 
 ## Skill stack
 <!-- Skill icons provided by skill-icons. Full icon list and names:
