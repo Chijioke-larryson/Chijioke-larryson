@@ -9,6 +9,12 @@ I’m passionate about designing efficient backend systems, Implementing and mai
 
 ---
 
+## 🏅 Certifications
+
+- ✅ LFS250: Kubernetes and Cloud Native Essentials (Linux Foundation Education)
+- ✅ ISO/IEC 27001:2022 Lead Auditor
+  
+
 ### 🎓 Academic Research Focus
 * **MEXT Research Applicant (2027 Cycle)**
 * **Core Proposal:** Automated Infrastructure-as-Code (IaC) Degradation and Configuration Drift Verification.
