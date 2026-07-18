@@ -10,7 +10,7 @@ I’m passionate about designing efficient backend systems, Implementing and mai
 ---
 
 ## 🏅 Certifications
-[![LFS250 Badge](assets/lfs250-badge.png)](https://www.credly.com/badges/793aec26-88da-4bed-9a45-e61630ed7fa3/public_url)
+[![LFS250 Badge](assets/lfs250-kubernetes-and-cloud-native-essentials.png)](https://www.credly.com/badges/793aec26-88da-4bed-9a45-e61630ed7fa3/public_url)
 - ✅ LFS250: Kubernetes and Cloud Native Essentials (Linux Foundation Education)
 - ✅ ISO/IEC 27001:2022 Lead Auditor
   
