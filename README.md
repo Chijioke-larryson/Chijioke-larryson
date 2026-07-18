@@ -9,20 +9,19 @@ I’m passionate about designing efficient backend systems, Implementing and mai
 
 ---
 
-## 🏅 Certifications
-<p align="center">
+<h2>🏅 Certifications</h2>
+
+<p align="left">
   <a href="https://www.credly.com/badges/793aec26-88da-4bed-9a45-e61630ed7fa3/public_url">
-    <img src="assets/lfs250-kubernetes-and-cloud-native-essentials.png"
-         alt="LFS250 Badge"
-         width="170">
+    <img src="assets/lfs250-kubernetes-and-cloud-native-essentials.png" width="150" alt="LFS250 Badge">
   </a>
 </p>
 
-<p align="center">
-  <strong>LFS250: Kubernetes and Cloud Native Essentials</strong><br>
-  <em>The Linux Foundation Education</em>
-</p>
-- ✅ ISO/IEC 27001:2022 Lead Auditor
+<ul>
+  <li>✅ LFS250: Kubernetes and Cloud Native Essentials (2026)</li>
+  <li>✅ ISO/IEC 27001:2022 Lead Auditor (2025)</li>
+  <li>🎯 KCNA – Exam Scheduled</li>
+</ul>
   
 
 ### 🎓 Academic Research Focus
