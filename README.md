@@ -1,6 +1,5 @@
 # 🐐 Larryson Chijioke
-
-**`💻 Backend Developer| ☁️ Cloud Engineer | ⛓️ Blockchain Enthusiast `**
+DevOps Engineer | Cloud & Infrastructure Enthusiast | Python | Docker | AWS
 
 
 # Hi, I'm Larryson Chijioke 🚀
@@ -45,9 +44,9 @@ I’m passionate about designing efficient backend systems, Implementing and mai
 ---
 
 ### 🌱 Currently Learning
-- Building and deploying machine learning models  
-- Writing and testing smart contracts with Solidity  
-- Improving backend performance and scalability  
+- Kubernetes 
+- Linux
+- Python Automation
 
 
 
