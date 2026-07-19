@@ -4,7 +4,7 @@ DevOps Engineer | Cloud & Infrastructure Enthusiast | Python | Docker | AWS
 
 # Hi, I'm Larryson Chijioke 🚀
 
-I’m passionate about designing efficient backend systems, Implementing and maintaining cloud infrastructure to support application deployment and scalability, and exploring how blockchain can drive innovation in healthcare, finance, and beyond. I enjoy solving problems with clean, scalable code and I’m constantly learning new technologies to expand my toolkit.  
+I'm passionate about designing reliable backend systems and building cloud infrastructure that supports scalable, secure, and efficient application deployment. I enjoy solving complex problems through automation, clean code, and modern DevOps practices. I'm constantly learning new technologies and expanding my skills in cloud-native engineering.  
 
 ---
 
