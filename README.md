@@ -100,11 +100,14 @@ I'm passionate about designing reliable backend systems and building cloud infra
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
-![Chijioke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chijioke-larryson&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chijioke-larryson&show_icons=true&theme=tokyonight" alt="Chijioke's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chijioke-larryson&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chijioke-larryson&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/wakatime?username=Chijioke&layout=compact" alt="WakaTime Stats" />
 </p>
