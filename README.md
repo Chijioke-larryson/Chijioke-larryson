@@ -102,7 +102,8 @@ I'm passionate about designing reliable backend systems and building cloud infra
 ### 📊 GitHub Stats
 ![Chijioke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chijioke-larryson&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chijioke-larryson&layout=pie)](https://github.com/Chijioke-larryson/github-readme-stats) 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chijioke)](https://github.com/Chijioke-larryson/github-readme-stats) 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Chijioke)](https://github.com/Chijioke-larryson/github-readme-stats) 
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chijioke&layout=compact)](https://wakatime.com/@Chijioke)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chijioke-larryson&hide_progress=true)
 ---
 ## Links
